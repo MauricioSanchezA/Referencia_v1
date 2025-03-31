@@ -1,0 +1,5 @@
+1 - Abra el archivo main.php con su editor de código favorito y configure solamente los datos 
+del servidor (en la funcion conexion). El archivo se encuentra en la carpeta “php”
+
+2 - Usuario por defecto: Administrador
+    Clave: Administrador
